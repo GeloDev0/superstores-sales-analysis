@@ -33,7 +33,7 @@ I added charts to make the data easier to understand:
 ---
 
 ## 💡 Insights Found
-- The store achieved ₱2.3M in total sales and ₱286K in profit, reflecting a 12% overall profit margin.
+- The store achieved achieved $2,297,200M in total sales and $286,397.02K in profit, reflecting a 12% overall profit margin.
 - West Region delivers the highest sales, while Central Region shows potential for growth.
 - Technology leads all categories in both sales and profitability, showing strong market demand.
 - Sales and profits have shown a steady upward trend from 2014 to 2017, peaking in 2017.
